@@ -1,0 +1,11 @@
+# ninja log v6
+32	53	1744142666689590693	CMakeFiles/teste.dir/_deps/libprg-src/libprg/src/libprg/sub.c.o	8d8537c5f408d873
+47	70	1744143353009855066	teste	c73d6f90a0b00d8f
+0	47	1744143352965854792	CMakeFiles/teste.dir/main.c.o	7cb56a0443b3d3ac
+24	42	1744142666681590644	CMakeFiles/teste.dir/_deps/libprg-src/libprg/src/libprg/sum.c.o	7b17f6a60b7ddbdb
+42	65	1744142666701590768	CMakeFiles/teste.dir/_deps/libprg-src/libprg/src/libprg/libprg.c.o	5aa2996b5a6f7eeb
+1	32	1744142666657590497	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/libprg.c.o	d8bd9dad3be871ce
+1	23	1744142666657590497	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sum.c.o	9d7c3403d6a7bfc2
+49	59	1744142666705590792	_deps/libprg-build/libprg/liblibprg.a	f29e9da30c3b7f
+1	23	1744142666657590497	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sub.c.o	e578ca6abd032cbe
+1	80	1744398717901562227	build.ninja	a2a9479cf87b7dc1
