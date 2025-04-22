@@ -16,7 +16,9 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(libprg)
 
-add_executable(teste main.c)
+add_executable(teste main.c
+        calculadora.c
+        calculadora.h)
 
 # linking libprg
 target_link_libraries(teste PUBLIC libprg)
